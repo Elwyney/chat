@@ -1,0 +1,7 @@
+frontend
+1) React.js + ts
+2) Tailwind CSS
+3) 
+
+backend
+1) Node.js + express
